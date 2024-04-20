@@ -1,6 +1,8 @@
 # Fresh Out of the Oven: Cooking Interactive Web Islands with Deno
 
-This repo is part of a talk titled "Fresh Out of the Oven: Cooking Interactive Web Islands with Deno" presented at the JSLovers April 2024 conference.
+This repo is part of a talk titled "Fresh Out of the Oven: Cooking Interactive Web Islands with Deno" presented at the [JSLovers April 2024](https://www.meetup.com/jslovers-pune/events/299433526/) meetup.
+
+![Demo Screenshot](./demo-screenshot.png)
 
 ### Prerequisites
 
